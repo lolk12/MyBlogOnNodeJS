@@ -20,4 +20,5 @@ yarn-error.log*
 *.sln
 *.sw?
 
-node_modules/
+/client/node_modules
+/server/node_modules
